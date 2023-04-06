@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryan
-- 👀 I’m interested in app development and Machine learning
-- 🌱 I’m currently learning app developement
+- 👀 I’m interested in app development and Computer Vision
+- 🌱 I’m currently learning Machine Leaning
 - 💞️ I’m looking to collaborate on building something great
 - 📫 How to reach me : linkedin - https://www.linkedin.com/in/aryan32134
 
