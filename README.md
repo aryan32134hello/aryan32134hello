@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @aryan
-- 👀 I’m interested in app development and Computer Vision
-- 🌱 I’m currently learning Machine Leaning
+## Hi there 👋, I am Aryan
+#### 🙎 Aryan Kumar | 💻 Machine Learning | India 🛸
+- 👀 I’m interested in ML and AI
+- 🔭 I’m currently working on exciting projects on AI/ML
+- 🌱 I’m currently learning MLops
 - 💞️ I’m looking to collaborate on building something great
 - 📫 How to reach me : linkedin - https://www.linkedin.com/in/aryan32134
 
